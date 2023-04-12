@@ -1,11 +1,16 @@
 # Olá! Eu sou o Ricardo 🖐️
-## Apaixonado por tecnologia!!!
+```ruby 
+class Programmer
 
+	def initialize() 
+```
+## Contatos
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-benicio/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ricadofelipe)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](RicardoFelipe#2549)
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@ricardofelipe)
 
+##
 ![Ricardo GitHub Status](https://github-readme-stats.vercel.app/api?username=ricardofelipe7&show_icons=true&theme=dracula&count_private=true)
 ![Ricardo Linguagem + usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofelipe7&theme=dracula)
 
