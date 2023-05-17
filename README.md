@@ -10,8 +10,11 @@ class Programmer
 [![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@ricardofelipe)
 
 ##
-![Ricardo GitHub Status](https://github-readme-stats.vercel.app/api?username=ricardofelipe7&show_icons=true&theme=dracula&count_private=true)
-![Ricardo Linguagem + usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofelipe7&theme=dracula)
+![Ricardo GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofelipe7&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofelipe7)](https://github.com/anuraghazra/github-readme-stats)
+
+## Wakatime Top Langs
+[![Ricardo Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ricardofelipe)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia
 
