@@ -4,17 +4,14 @@ class Programmer
 
 	def initialize() 
 ```
-## Contatos
+## Contact's
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-benicio/)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ricadofelipe)
-[![Wakatime](https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white)](https://wakatime.com/@ricardofelipe)
 
-##
+## Top Status, Langs and language time
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricardofelipe7&show_icons=true&theme=synthwave)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricardofelipe7&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Wakatime Top Langs
-[![Ricardo Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ricardofelipe)](https://github.com/anuraghazra/github-readme-stats)
+[![Ricardo Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ricardofelipe&layout=compact)](https://wakatime.com/@ricardofelipe)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -26,6 +23,8 @@ class Programmer
   <img align="center" alt="linuxMint" src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" />
   <img align="center" alt="vscode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
   <img align="center" alt="MD" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>
+  <img align="center" alt="wakatime" src="https://img.shields.io/badge/WakaTime-000000?style=for-the-badge&logo=WakaTime&logoColor=white"/> 
+
   
 </div><br/>
 
@@ -46,12 +45,12 @@ class Programmer
     <tbody>
 	    <tr>
 		<td>1</td>
-            	<td><a href="https://github.com/ricardofelipe7/Desenv_me_codigos"><b> Algoritímos </b></a></td>
+            	<td><a href="https://github.com/ricardofelipe7/rspec_algoritimos"><b> Algoritímos </b></a></td>
 		<td>Developer</td>
-            	<td><img alt="Stars" src="https://img.shields.io/github/stars/ricardofelipe7/Desenv_me_codigos?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Forks" src="https://img.shields.io/github/forks/ricardofelipe7/Desenv_me_codigos?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Issues" src="https://img.shields.io/github/issues/ricardofelipe7/Desenv_me_codigos?style=flat-square&labelColor=343b41" /></td>
-            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ricardofelipe7/Desenv_me_codigos?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Stars" src="https://img.shields.io/github/stars/ricardofelipe7/rspec_algoritimos?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Forks" src="https://img.shields.io/github/forks/ricardofelipe7/rspec_algoritimos?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Issues" src="https://img.shields.io/github/issues/ricardofelipe7/rspec_algoritimos?style=flat-square&labelColor=343b41" /></td>
+            	<td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/ricardofelipe7/rspec_algoritimos?style=flat-square&labelColor=343b41" /></td>
         </tr>
     </tbody>
 </table>
