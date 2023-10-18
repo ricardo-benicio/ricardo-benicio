@@ -59,11 +59,17 @@ class Programmer
 <!--START_SECTION:waka-->
 
 ```txt
+From: 11 October 2023 - To: 18 October 2023
+
+Total Time: 21 hrs 33 mins
+
 Ruby             14 hrs 17 mins  ████████████████▓░░░░░░░░   66.24 %
 ERB              6 hrs 42 mins   ███████▓░░░░░░░░░░░░░░░░░   31.11 %
 YAML             27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
 ActionScript 3   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 JSON             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+yarn.lock        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
 ```
 
 <!--END_SECTION:waka-->
