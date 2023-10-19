@@ -3,7 +3,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=ricardofelipe7&label=Profile%20views&color=0e75b6&style=flat" alt="ricardofelipe7" />
 
-- 💬 Ask me about **...**
+- 💬 Pergunte-me sobre **.**
 
 <h3 align="left">Conecte-se comigo:</h3>
 
@@ -37,7 +37,6 @@
 ###
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-256%20hrs%2016%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-162-blue)
 
 📊 **Esta semana eu gastei meu tempo em** 
