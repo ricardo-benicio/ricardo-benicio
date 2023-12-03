@@ -36,27 +36,8 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-359%20hrs%2011%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-10-blue)
 
-📊 **Esta semana eu gastei meu tempo em** 
 
-```text
-💬 Linguagens de programação: 
-Ruby                     16 hrs 36 mins      ████████████████░░░░░░░░░   64.09 % 
-ERB                      3 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.32 % 
-YAML                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-yarn.lock                40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-GitIgnore file           31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-
-🔥 Editores: 
-RubyMine                 25 hrs 54 mins      █████████████████████████   100.00 % 
-
-💻 Sistema operacional: 
-Linux                    25 hrs 54 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 02/12/2023 03:09:17 UTC
+ Last Updated on 03/12/2023 03:09:05 UTC
 <!--END_SECTION:waka-->
