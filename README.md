@@ -1,7 +1,7 @@
 <h1 align="center">Olá, mundo! 👋, Me chamo Ricardo.</h1>
 <h3 align="center">Um desenvolvedor backend apaixonado do Brasil!</h3>
 
-<img src="https://komarev.com/ghpvc/?username=ricardofelipe7&label=Profile%20views&color=0e75b6&style=flat" alt="ricardofelipe7" />
+<img src="https://komarev.com/ghpvc/?username=ricardo-benicio&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-benicio" />
 
 - 💬 Pergunte-me sobre **.**
 
@@ -28,8 +28,8 @@
 
 ##
 <div>
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardofelipe7&show_icons=true&locale=pt-BR&layout=Dracula" alt="ricardo-benicio" />
-<img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardofelipe7&show_icons=true&locale=pt-BR&layout=compact" alt="ricardo-benicio" />
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardo-benicio&show_icons=true&locale=pt-BR&layout=Dracula" alt="ricardo-benicio" />
+<img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-benicio&show_icons=true&locale=pt-BR&layout=compact" alt="ricardo-benicio" />
 </div>
 
 <hr>
