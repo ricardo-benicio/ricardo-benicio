@@ -28,8 +28,8 @@
 
 ##
 <div>
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardofelipe7&show_icons=true&locale=pt-BR&layout=Dracula" alt="ricardofelipe7" />
-<img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardofelipe7&show_icons=true&locale=pt-BR&layout=compact" alt="ricardofelipe7" />
+<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardofelipe7&show_icons=true&locale=pt-BR&layout=Dracula" alt="ricardo-benicio" />
+<img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardofelipe7&show_icons=true&locale=pt-BR&layout=compact" alt="ricardo-benicio" />
 </div>
 
 <hr>
