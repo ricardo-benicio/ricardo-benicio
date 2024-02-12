@@ -44,18 +44,15 @@
 
 ```text
 💬 Linguagens de programação: 
-HTML                     13 mins             ███████████████████░░░░░░   77.09 % 
-JavaScript               3 mins              █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-VS Code                  17 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Linux                    17 mins             █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 11/02/2024 03:08:56 UTC
+ Last Updated on 12/02/2024 03:09:25 UTC
 <!--END_SECTION:waka-->
