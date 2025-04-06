@@ -36,7 +36,7 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2019%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-472%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
@@ -44,15 +44,18 @@
 
 ```text
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Other                    14 mins             █████████████░░░░░░░░░░░░   51.61 % 
+Ruby                     10 mins             █████████░░░░░░░░░░░░░░░░   36.31 % 
+JavaScript               3 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+VS Code                  28 mins             █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Linux                    28 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/04/2025 03:25:09 UTC
+ Last Updated on 06/04/2025 03:29:37 UTC
 <!--END_SECTION:waka-->
