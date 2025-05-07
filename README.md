@@ -38,7 +38,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-486%20hrs%2034%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-1-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
@@ -54,5 +54,5 @@ Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 06/05/2025 03:35:12 UTC
+ Last Updated on 07/05/2025 03:36:46 UTC
 <!--END_SECTION:waka-->
