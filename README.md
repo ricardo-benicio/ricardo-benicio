@@ -40,6 +40,19 @@
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
+📊 **Esta semana eu gastei meu tempo em** 
 
- Last Updated on 06/06/2025 03:42:25 UTC
+```text
+💬 Linguagens de programação: 
+Nenhuma atividade rastreada esta semana
+
+🔥 Editores: 
+Nenhuma atividade rastreada esta semana
+
+💻 Sistema operacional: 
+Nenhuma atividade rastreada esta semana
+```
+
+
+ Last Updated on 07/06/2025 03:40:06 UTC
 <!--END_SECTION:waka-->
