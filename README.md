@@ -1,4 +1,4 @@
-<h1 align="center">Olá, mundo! 👋, Me chamo Ricardo.</h1>
+<h1 align="center">Olá, mundo!, Me chamo Ricardo.</h1>
 <h3 align="center">Um desenvolvedor backend apaixonado do Brasil!</h3>
 
 <img src="https://komarev.com/ghpvc/?username=ricardo-benicio&label=Profile%20views&color=0e75b6&style=flat" alt="ricardo-benicio" />
