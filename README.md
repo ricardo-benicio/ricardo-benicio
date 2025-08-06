@@ -34,24 +34,24 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-488%20hrs%2058%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-6-blue)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
 💬 Linguagens de programação: 
-Ruby                     1 hr 34 mins        █████████████████████████   99.39 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+Ruby                     50 mins             ██████████████████████░░░   88.26 % 
+Bash                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 
 🔥 Editores: 
-Cursor                   1 hr 34 mins        █████████████████████████   100.00 % 
+Cursor                   57 mins             █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    1 hr 34 mins        █████████████████████████   100.00 % 
+Linux                    57 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/08/2025 04:04:06 UTC
+ Last Updated on 06/08/2025 04:01:55 UTC
 <!--END_SECTION:waka-->
