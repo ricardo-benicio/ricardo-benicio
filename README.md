@@ -34,8 +34,23 @@
 
 ###
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2038%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
+📊 **Esta semana eu gastei meu tempo em** 
 
- Last Updated on 30/08/2025 03:24:03 UTC
+```text
+💬 Linguagens de programação: 
+Nenhuma atividade rastreada esta semana
+
+🔥 Editores: 
+Nenhuma atividade rastreada esta semana
+
+💻 Sistema operacional: 
+Nenhuma atividade rastreada esta semana
+```
+
+
+ Last Updated on 31/08/2025 03:33:12 UTC
 <!--END_SECTION:waka-->
