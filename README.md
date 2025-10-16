@@ -34,8 +34,26 @@
 
 ###
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2047%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
+📊 **Esta semana eu gastei meu tempo em** 
 
- Last Updated on 15/10/2025 03:32:53 UTC
+```text
+💬 Linguagens de programação: 
+Other                    4 mins              ██████████████░░░░░░░░░░░   54.43 % 
+Markdown                 3 mins              ███████████░░░░░░░░░░░░░░   44.71 % 
+Ruby                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+
+🔥 Editores: 
+VS Code                  8 mins              █████████████████████████   100.00 % 
+
+💻 Sistema operacional: 
+Linux                    8 mins              █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 16/10/2025 03:32:04 UTC
 <!--END_SECTION:waka-->
