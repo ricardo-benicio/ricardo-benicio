@@ -42,18 +42,15 @@
 
 ```text
 💬 Linguagens de programação: 
-Ruby                     3 mins              ██████████████████░░░░░░░   71.97 % 
-YAML                     0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
+Nenhuma atividade rastreada esta semana
 
 🔥 Editores: 
-VS Code                  5 mins              █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 
 💻 Sistema operacional: 
-Linux                    5 mins              █████████████████████████   100.00 % 
+Nenhuma atividade rastreada esta semana
 ```
 
 
- Last Updated on 12/11/2025 03:40:57 UTC
+ Last Updated on 13/11/2025 03:42:48 UTC
 <!--END_SECTION:waka-->
