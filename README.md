@@ -34,23 +34,8 @@
 
 ###
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-490%20hrs%2052%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
 
-📊 **Esta semana eu gastei meu tempo em** 
 
-```text
-💬 Linguagens de programação: 
-JSON                     0 secs              █████████████████████████   100.00 % 
-
-🔥 Editores: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
-
-💻 Sistema operacional: 
-Linux                    0 secs              █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 15/11/2025 03:35:50 UTC
+ Last Updated on 16/11/2025 03:44:36 UTC
 <!--END_SECTION:waka-->
