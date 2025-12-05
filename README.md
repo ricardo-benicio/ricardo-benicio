@@ -1,38 +1,67 @@
-<h1 align="center">Olá, mundo!, Me chamo Ricardo.</h1>
-<h3 align="center">Um desenvolvedor backend apaixonado do Brasil!</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Ol%C3%A1%2C+mundo!+%F0%9F%91%8B+Me+chamo+Ricardo;Desenvolvedor+Backend+apaixonado+%F0%9F%92%9C;Bem-vindo+ao+meu+perfil!+%F0%9F%9A%80" alt="Typing SVG" />
+</div>
+
+<br/>
+
+## 👨‍💻 Sobre mim
+
+Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir aplicações robustas e escaláveis. Atualmente trabalhando com Ruby on Rails, Node.js e explorando novas tecnologias para melhorar minhas habilidades.
+
+<br/>
 
 
 
-<h3 align="left">Conecte-se comigo:</h3>
+## 🌐 Conecte-se comigo:
+
+<div align="center">
 
 [![Linkedin: Ricardo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-benicio/)
 [![Telegram: Ricardo](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ricardofelipe)
 
-<hr>
-
-<h3 align="left">Linguagens e Ferramentas:</h3>
-
-<p align="left">
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/></a>
-<a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-</p>
-
-<hr>
-
-<div align="center">
-<img width="50%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardo-benicio&show_icons=true&locale=pt-BR&theme=dracula" alt="ricardo-benicio" />
-<img width="38%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-benicio&show_icons=true&locale=pt-BR&layout=compact&theme=dracula" alt="ricardo-benicio" />
 </div>
 
-<hr>
+<br/>
+
+## 🛠️ Linguagens e Ferramentas:
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,js,nodejs,postgres,sqlite,docker,git,linux,postman&perline=5" />
+</div>
+
+<br/>
+
+## 📊 Estatísticas do GitHub:
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardo-benicio&show_icons=true&locale=pt-BR&theme=dracula&hide_border=true&count_private=true" alt="ricardo-benicio" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-benicio&show_icons=true&locale=pt-BR&layout=compact&theme=dracula&hide_border=true" alt="ricardo-benicio" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-benicio&theme=dracula&hide_border=true&locale=pt-BR&date_format=j%20M%5B%20Y%5D" alt="ricardo-benicio" />
+</div>
+
+<br/>
+
+## 🏆 Troféus do GitHub:
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ricardo-benicio&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=4" alt="ricardo-benicio" />
+</div>
+
+<br/>
+
+## 📈 Gráfico de Atividade:
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardo-benicio&theme=dracula&hide_border=true&locale=pt-BR" alt="ricardo-benicio" />
+</div>
+
+<br/>
+
+## ⏱️ Estatísticas de Tempo (WakaTime):
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2055%20mins-blue)
 
