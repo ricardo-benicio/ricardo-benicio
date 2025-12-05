@@ -34,11 +34,6 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 ## 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ricardo-benicio&show_icons=true&locale=pt-BR&theme=dracula&hide_border=true&count_private=true" alt="ricardo-benicio" />
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs?username=ricardo-benicio&show_icons=true&locale=pt-BR&layout=compact&theme=dracula&hide_border=true" alt="ricardo-benicio" />
-</div>
-
-<div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-benicio&theme=dracula&hide_border=true&locale=pt-BR&date_format=j%20M%5B%20Y%5D" alt="ricardo-benicio" />
 </div>
 
