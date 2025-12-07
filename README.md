@@ -58,7 +58,7 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 ## ⏱️ Estatísticas de Tempo (WakaTime):
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2024%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-492%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-18-blue)
 
@@ -66,18 +66,18 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 
 ```text
 💬 Linguagens de programação: 
-Markdown                 22 mins             ████████████████░░░░░░░░░   62.52 % 
-YAML                     6 mins              █████░░░░░░░░░░░░░░░░░░░░   19.65 % 
-JSON                     6 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.15 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Markdown                 53 mins             ████████████████████░░░░░   80.18 % 
+YAML                     6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+JSON                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 🔥 Editores: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    35 mins             █████████████████████████   100.00 % 
+Linux                    1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/12/2025 03:38:40 UTC
+ Last Updated on 07/12/2025 03:53:50 UTC
 <!--END_SECTION:waka-->
