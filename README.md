@@ -34,15 +34,20 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 ## 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ricardo-benicio&theme=dracula&hide_border=true&locale=pt-BR&date_format=j%20M%5B%20Y%5D" alt="ricardo-benicio" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ricardo-benicio&show_icons=true&theme=dracula&hide_border=true&locale=pt-br" alt="Estatísticas GitHub" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-benicio&theme=dracula&hide_border=true&layout=compact&locale=pt-br" alt="Linguagens Mais Usadas" />
 </div>
 
 <br/>
 
-## 🏆 Troféus do GitHub:
+## 🏆 Realizações:
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ricardo-benicio&theme=dracula&no-frame=true&no-bg=false&margin-w=4&column=4" alt="ricardo-benicio" />
+
+[![Estrelas GitHub](https://img.shields.io/badge/⭐_Contribuidor_Ativo-ricardo--benicio-yellow?style=for-the-badge)](https://github.com/ricardo-benicio)
+[![Desenvolvedor](https://img.shields.io/badge/💻_Desenvolvedor_Backend-Ruby_Rails-red?style=for-the-badge)](https://github.com/ricardo-benicio)
+[![Experiência](https://img.shields.io/badge/🚀_Apaixonado_por_Código-Escalável-blue?style=for-the-badge)](https://github.com/ricardo-benicio)
+
 </div>
 
 <br/>
@@ -50,7 +55,7 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 ## 📈 Gráfico de Atividade:
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardo-benicio&theme=dracula&hide_border=true&locale=pt-BR" alt="ricardo-benicio" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ricardo-benicio&theme=dracula&hide_border=true&locale=pt-BR" alt="Gráfico de Atividade" />
 </div>
 
 <br/>
