@@ -65,22 +65,21 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%205%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-21-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-22-blue)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
 💬 Linguagens de programação: 
-Markdown                 1 hr 3 mins         ███████████████████████░░   90.06 % 
-YAML                     6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+Markdown                 41 mins             █████████████████████████   100.00 % 
 
 🔥 Editores: 
-VS Code                  1 hr 10 mins        █████████████████████████   100.00 % 
+VS Code                  41 mins             █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    1 hr 10 mins        █████████████████████████   100.00 % 
+Linux                    41 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/12/2025 03:53:15 UTC
+ Last Updated on 13/12/2025 03:44:45 UTC
 <!--END_SECTION:waka-->
