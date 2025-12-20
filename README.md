@@ -63,23 +63,27 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 ## ⏱️ Estatísticas de Tempo (WakaTime):
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-493%20hrs%2011%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-22-blue)
+![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-4-blue)
 
 📊 **Esta semana eu gastei meu tempo em** 
 
 ```text
 💬 Linguagens de programação: 
-Nenhuma atividade rastreada esta semana
+Markdown                 2 mins              █████████████░░░░░░░░░░░░   51.51 % 
+CSV                      2 mins              █████████░░░░░░░░░░░░░░░░   36.85 % 
+YAML                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+HTML                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🔥 Editores: 
-Nenhuma atividade rastreada esta semana
+VS Code                  5 mins              █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Nenhuma atividade rastreada esta semana
+Linux                    5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/12/2025 03:54:17 UTC
+ Last Updated on 20/12/2025 03:44:26 UTC
 <!--END_SECTION:waka-->
