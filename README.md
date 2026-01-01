@@ -71,19 +71,19 @@ Sou um desenvolvedor backend apaixonado do Brasil, especializado em construir ap
 
 ```text
 💬 Linguagens de programação: 
-Markdown                 58 mins             ██████████░░░░░░░░░░░░░░░   40.78 % 
-Ruby                     54 mins             █████████░░░░░░░░░░░░░░░░   37.81 % 
-YAML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
-Git Config               12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Markdown                 58 mins             ██████████░░░░░░░░░░░░░░░   41.40 % 
+Ruby                     54 mins             ██████████░░░░░░░░░░░░░░░   38.38 % 
+YAML                     16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Git Config               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🔥 Editores: 
-VS Code                  2 hrs 24 mins       █████████████████████████   100.00 % 
+VS Code                  2 hrs 22 mins       █████████████████████████   100.00 % 
 
 💻 Sistema operacional: 
-Linux                    2 hrs 24 mins       █████████████████████████   100.00 % 
+Linux                    2 hrs 22 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 31/12/2025 03:56:33 UTC
+ Last Updated on 01/01/2026 04:06:15 UTC
 <!--END_SECTION:waka-->
