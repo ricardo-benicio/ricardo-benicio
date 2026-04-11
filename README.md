@@ -2,7 +2,7 @@
 
 # Ricardo Benício
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Backend+Developer;Ruby+on+Rails+Specialist;Node.js+Enthusiast;Building+Scalable+Solutions)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Ruby+on+Rails+Specialist;Building+Scalable+Solutions)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-benicio/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ricardofelipe)
@@ -14,7 +14,7 @@
 
 ## 👨‍💻 Sobre Mim
 
-Desenvolvedor **Backend** apaixonado por criar **soluções robustas e escaláveis**. Especializado em **Ruby on Rails** e **Node.js**, com forte experiência em arquitetura de sistemas, bancos de dados e desenvolvimento de APIs RESTful.
+Desenvolvedor **Fullstack** focado por criar **soluções robustas e escaláveis**. Especializado em **Ruby on Rails**, com forte experiência em arquitetura de sistemas, bancos de dados e desenvolvimento de APIs RESTful.
 
 🎯 **Foco:** Construir aplicações eficientes que resolvem problemas reais
 💡 **Paixão:** Clean code, performance e boas práticas de desenvolvimento
@@ -41,7 +41,6 @@ Desenvolvedor **Backend** apaixonado por criar **soluções robustas e escaláve
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
 </div>
 
