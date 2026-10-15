@@ -1,7 +1,7 @@
 # Ricardo Benício
 
 ### Product Builder & Fullstack Software Engineer
-**Ruby on Rails 8 • React 19 • TypeScript • PostgreSQL • Applied AI**
+**Ruby on Rails • React • TypeScript • PostgreSQL • Applied AI**
 
 SC, Brasil · [LinkedIn](https://www.linkedin.com/in/ricardo-benicio/) · [Email](mailto:rikrdoofelipe@outlook.com)
 
@@ -15,7 +15,7 @@ Construo software com mentalidade de **Product Builder**: não me limito a fecha
 
 Acredito que a melhor engenharia é aquela que elimina silos, reduz hand-offs desnecessários e entrega desfechos mensuráveis com código limpo, testes automatizados e estabilidade operacional.
 
-- **Foco Técnico:** Ruby on Rails 8, ecossistema React 19 com TypeScript, modelagem PostgreSQL e esteiras conteinerizadas (Docker / Kamal).
+- **Foco Técnico:** Ruby on Rails, ecossistema React com TypeScript, modelagem PostgreSQL e esteiras conteinerizadas (Docker / Kamal).
 - **Atuação Atual:** Engenharia de software no SaaS do CRM [Contact2sale (C2S)](https://contact2sale.com/), sustentando alta concorrência de leads, APIs críticas, webhooks criptográficos e automações inteligentes.
 - **Mentalidade:** Disciplina operacional de chão de fábrica aliada ao rigor da engenharia de software moderna.
 
@@ -48,22 +48,17 @@ Não acredito em soluções de IA baseadas em invólucros rasos ou modismos supe
 - **Stack:** React 18/19 • TypeScript • Vite • Zustand • Tailwind CSS • Radix UI
 - **Destaques:** Identificação contextual de mesa via QR Code, carrinho reativo de baixa latência com Zustand, separação modular de componentes acessíveis e fluxo de checkout sem atritos.
 
-### 4. CarroPronto (SaaS B2B Automotivo)
-**Plataforma de gestão de ordens de serviço e aprovação digital transparente para oficinas.**
-- **Stack:** Ruby on Rails 8 • Hotwire (Turbo & Stimulus) • PostgreSQL • Solid Queue • Docker
-- **Destaques:** Orçamentos digitais com evidências fotográficas e em vídeo das peças danificadas, assinatura e aprovação pelo cliente via link seguro com trilha de auditoria e conformidade LGPD.
-
 ---
 
 ## Stack Tecnológica
 
 | Camada | Tecnologias & Padrões |
 | :--- | :--- |
-| **Backend & APIs** | Ruby on Rails 8, Ruby 3.4, RESTful APIs, Hotwire (Turbo / Stimulus), Devise, JWT, Rack Attack |
-| **Frontend & UI** | React 19, TypeScript, TanStack Start, TanStack Query, Tailwind CSS v4, Radix UI, Vite |
+| **Backend & APIs** | Ruby on Rails, Ruby 3.4, RESTful APIs, Hotwire (Turbo / Stimulus), Devise, JWT, Rack Attack |
+| **Frontend & UI** | React, TypeScript, TanStack Start, TanStack Query, Tailwind CSS v4, Radix UI, Vite |
 | **Bancos de Dados & Filas** | PostgreSQL, SQLite, Supabase, Solid Queue, Solid Cache, Sidekiq, Redis |
 | **Inteligência Artificial** | Faster-Whisper (CUDA), PyTorch, Pipelines Assíncronos de Extração, Prompt Engineering Estruturado |
-| **Infra & DevOps** | Docker, Kamal 2, Linux (Ubuntu/Arch), Git / GitHub Actions, CI/CD |
+| **Infra & DevOps** | Docker, Kamal, Linux (Ubuntu/Arch), Git / GitHub Actions, CI/CD |
 | **Qualidade & Testes** | RSpec, Vitest, TDD, Clean Code, FactoryBot, SimpleCov |
 
 ---
