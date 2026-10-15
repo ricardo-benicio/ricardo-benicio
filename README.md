@@ -1,117 +1,78 @@
-<div align="center">
-
 # Ricardo Benício
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;Ruby+on+Rails+Specialist;Building+Scalable+Solutions)](https://git.io/typing-svg)
+### Product Builder & Fullstack Software Engineer
+**Ruby on Rails 8 • React 19 • TypeScript • PostgreSQL • Applied AI**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-benicio/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ricardofelipe)
-[![Profile Views](https://komarev.com/ghpvc/?username=ricardo-benicio&color=58a6ff&style=for-the-badge)](https://github.com/ricardo-benicio)
-
-</div>
+SC, Brasil · [LinkedIn](https://www.linkedin.com/in/ricardo-benicio/) · [Email](mailto:rikrdoofelipe@outlook.com)
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre & Filosofia de Construção
 
-Desenvolvedor **Fullstack** focado por criar **soluções robustas e escaláveis**. Especializado em **Ruby on Rails**, com forte experiência em arquitetura de sistemas, bancos de dados e desenvolvimento de APIs RESTful.
+> *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
-🎯 **Foco:** Construir aplicações eficientes que resolvem problemas reais
-💡 **Paixão:** Clean code, performance e boas práticas de desenvolvimento
-🚀 **Objetivo:** Contribuir com projetos desafiadores e impactantes
+Construo software com mentalidade de **Product Builder**: não me limito a fechar tickets isolados em backlogs descontextualizados. Minha atuação conecta a compreensão profunda da dor de negócio, a modelagem relacional rigorosa, a arquitetura de APIs resilientes e a experiência final fluida na mão do usuário.
 
----
+Acredito que a melhor engenharia é aquela que elimina silos, reduz hand-offs desnecessários e entrega desfechos mensuráveis com código limpo, testes automatizados e estabilidade operacional.
 
-## 🛠️ Stack Tecnológico
-
-<div align="center">
-
-### Backend & Languages
-[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/)
-[![Rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org/)
-[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
-[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-
-### Databases
-[![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
-[![SQLite](https://skillicons.dev/icons?i=sqlite)](https://www.sqlite.org/)
-
-### DevOps & Tools
-[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
-[![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
-[![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
-
-</div>
+- **Foco Técnico:** Ruby on Rails 8, ecossistema React 19 com TypeScript, modelagem PostgreSQL e esteiras conteinerizadas (Docker / Kamal).
+- **Atuação Atual:** Engenharia de software no SaaS do CRM [Contact2sale (C2S)](https://contact2sale.com/), sustentando alta concorrência de leads, APIs críticas, webhooks criptográficos e automações inteligentes.
+- **Mentalidade:** Disciplina operacional de chão de fábrica aliada ao rigor da engenharia de software moderna.
 
 ---
 
-## 📊 Estatísticas GitHub
+## Engenharia de IA Aplicada
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ricardo-benicio&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=ricardo-benicio&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
+Não acredito em soluções de IA baseadas em invólucros rasos ou modismos superficiais. Trato modelos de linguagem e redes neurais como componentes arquiteturais de primeira classe dentro de sistemas reais:
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricardo-benicio&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-trophy.vercel.app/?username=ricardo-benicio&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
+- **Automação Assíncrona & Resiliência:** Agentes e pipelines integrados a filas de segundo plano (`Solid Queue` / `Sidekiq`), lidando com falhas transitórias, rate limits e fallbacks determinísticos.
+- **Processamento de Mídia & Inferência Local:** Pipelines de transcrição e extração semântica com `Whisper / Faster-Whisper` acelerados por GPU local (CUDA), garantindo privacidade de dados e custo operacional zero de inferência.
+- **Arquitetura Orientada a Decisões:** Extração estruturada de decisões, briefs e grafos de conhecimento a partir de fluxos informais de comunicação (áudios e reuniões).
 
 ---
 
-## 🐍 Contribution Graph
+## Sistemas e Evidências em Destaque
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ricardo-benicio/ricardo-benicio/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
+### 1. [Rails 8 Production-Ready Template](https://github.com/ricardo-benicio/rails-template)
+**Arquitetura base moderna e escalável para aplicações web e APIs corporativas.**
+- **Stack:** Ruby 3.4 • Rails 8.1 • PostgreSQL • Hotwire • Tailwind CSS v4 • Kamal
+- **Destaques:** Autenticação híbrida (Devise para web + JWT para mobile/SPA), dashboard administrativo completo (`Administrate`), documentação interativa Swagger/OpenAPI (`rswag`), rate limiting via `Rack::Attack`, soft delete estruturado e suíte de testes com `RSpec` e `FactoryBot`.
 
----
+### 2. [Prezato / Cálculo Fácil](https://github.com/ricardo-benicio/prezato-calculo-facil)
+**SaaS de decomposição determinística de custos e precificação para manufatura 3D.**
+- **Stack:** React 19 • TanStack Start • TypeScript • Supabase (PostgreSQL + RLS) • Tailwind CSS v4 • Vitest
+- **Destaques:** Motor matemático de precisão para cálculo de massa de filamento, depreciação por hora de máquina, consumo elétrico e pós-processamento. Segurança de isolamento de dados multi-tenant garantida via Row-Level Security (RLS) no PostgreSQL.
 
-## ⚡ Atividade de Desenvolvimento
+### 3. [ByteBurger](https://github.com/ricardo-benicio/byteburger)
+**Aplicação responsiva de autoatendimento e pedidos via QR Code para gastronomia.**
+- **Stack:** React 18/19 • TypeScript • Vite • Zustand • Tailwind CSS • Radix UI
+- **Destaques:** Identificação contextual de mesa via QR Code, carrinho reativo de baixa latência com Zustand, separação modular de componentes acessíveis e fluxo de checkout sem atritos.
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-495%20hrs%2048%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Visualizac%C3%B5es%20do%20perfil-0-blue)
-
-📊 **Esta semana eu gastei meu tempo em** 
-
-```text
-💬 Linguagens de programação:
-JSON                     6 mins              ███████████████████████░░   92.78 %
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
-Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-
-🔥 Editores:
-VS Code                  6 mins              █████████████████████████   100.00 %
-
-💻 Sistema operacional:
-Linux                    6 mins              █████████████████████████   100.00 %
-```
-
-
- Last Updated on 02/01/2026 04:00:27 UTC
-<!--END_SECTION:waka-->
+### 4. CarroPronto (SaaS B2B Automotivo)
+**Plataforma de gestão de ordens de serviço e aprovação digital transparente para oficinas.**
+- **Stack:** Ruby on Rails 8 • Hotwire (Turbo & Stimulus) • PostgreSQL • Solid Queue • Docker
+- **Destaques:** Orçamentos digitais com evidências fotográficas e em vídeo das peças danificadas, assinatura e aprovação pelo cliente via link seguro com trilha de auditoria e conformidade LGPD.
 
 ---
 
-## 📫 Entre em Contato
+## Stack Tecnológica
 
-<div align="center">
-
-Estou sempre aberto para discutir **novas oportunidades**, **projetos interessantes** e **colaborações**.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ricardo-benicio/)
-[![Telegram](https://img.shields.io/badge/Telegram-Conversar-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ricardofelipe)
-[![Email](https://img.shields.io/badge/Email-Enviar-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rikrdoofelipe@outlook.com)
-
-</div>
+| Camada | Tecnologias & Padrões |
+| :--- | :--- |
+| **Backend & APIs** | Ruby on Rails 8, Ruby 3.4, RESTful APIs, Hotwire (Turbo / Stimulus), Devise, JWT, Rack Attack |
+| **Frontend & UI** | React 19, TypeScript, TanStack Start, TanStack Query, Tailwind CSS v4, Radix UI, Vite |
+| **Bancos de Dados & Filas** | PostgreSQL, SQLite, Supabase, Solid Queue, Solid Cache, Sidekiq, Redis |
+| **Inteligência Artificial** | Faster-Whisper (CUDA), PyTorch, Pipelines Assíncronos de Extração, Prompt Engineering Estruturado |
+| **Infra & DevOps** | Docker, Kamal 2, Linux (Ubuntu/Arch), Git / GitHub Actions, CI/CD |
+| **Qualidade & Testes** | RSpec, Vitest, TDD, Clean Code, FactoryBot, SimpleCov |
 
 ---
 
-<div align="center">
+## Contato & Conexões
 
-### ⭐ "Code is like humor. When you have to explain it, it's bad." – Cory House
+Aberto a conexões técnicas de alto nível, parcerias em produtos inovadores e desafios de engenharia que exijam autonomia, rigor e foco em resultado real.
 
-</div>
+- **LinkedIn:** [linkedin.com/in/ricardo-benicio](https://www.linkedin.com/in/ricardo-benicio/)
+- **Email Profissional:** [rikrdoofelipe@outlook.com](mailto:rikrdoofelipe@outlook.com)
+- **Localização:** Santa Catarina, Brasil (disponível para atuações remotas)
+
